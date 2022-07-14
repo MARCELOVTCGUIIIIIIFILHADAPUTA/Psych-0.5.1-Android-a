@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Midground.png"><SubTexture name="MidGround instance 0000" x="0" y="0" width="2945" height="1296" frameX="0" frameY="0" frameWidth="2945" frameHeight="1296" />
+<SubTexture name="MidGround instance 0001" x="0" y="1296" width="2945" height="1296" frameX="0" frameY="0" frameWidth="2945" frameHeight="1296" />
+<SubTexture name="MidGround instance 0002" x="2945" y="0" width="2945" height="1296" frameX="0" frameY="0" frameWidth="2945" frameHeight="1296" />
+</TextureAtlas>

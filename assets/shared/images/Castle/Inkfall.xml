@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Inkfall.png"><SubTexture name="ink waterfall instance 0000" x="376" y="1036" width="405" height="990" frameX="0" frameY="0" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0001" x="376" y="1036" width="405" height="990" frameX="0" frameY="0" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0002" x="376" y="1036" width="405" height="990" frameX="0" frameY="0" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0003" x="2266" y="0" width="381" height="977" frameX="-24" frameY="-6" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0004" x="2647" y="0" width="382" height="977" frameX="-24" frameY="-6" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0005" x="2266" y="0" width="381" height="977" frameX="-24" frameY="-6" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0006" x="1115" y="0" width="384" height="996" frameX="-21" frameY="-5" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0007" x="1115" y="0" width="384" height="996" frameX="-21" frameY="-5" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0008" x="1115" y="0" width="384" height="996" frameX="-21" frameY="-5" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0009" x="1512" y="1036" width="383" height="979" frameX="-22" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0010" x="1512" y="1036" width="383" height="979" frameX="-22" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0011" x="1512" y="1036" width="383" height="979" frameX="-22" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0012" x="0" y="0" width="375" height="1036" frameX="-30" frameY="-3" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0013" x="0" y="0" width="375" height="1036" frameX="-30" frameY="-3" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0014" x="0" y="0" width="375" height="1036" frameX="-30" frameY="-3" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0015" x="748" y="0" width="367" height="997" frameX="-38" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0016" x="748" y="0" width="367" height="997" frameX="-38" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0017" x="748" y="0" width="367" height="997" frameX="-38" frameY="-4" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0018" x="0" y="1036" width="376" height="993" frameX="-29" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0019" x="0" y="1036" width="376" height="993" frameX="-29" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0020" x="0" y="1036" width="376" height="993" frameX="-29" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0021" x="781" y="1036" width="365" height="990" frameX="-40" frameY="-13" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0022" x="1146" y="1036" width="366" height="990" frameX="-40" frameY="-13" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0023" x="781" y="1036" width="365" height="990" frameX="-40" frameY="-13" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0024" x="375" y="0" width="373" height="1028" frameX="-32" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0025" x="375" y="0" width="373" height="1028" frameX="-32" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0026" x="375" y="0" width="373" height="1028" frameX="-32" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0027" x="1499" y="0" width="384" height="994" frameX="-22" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0028" x="1883" y="0" width="383" height="994" frameX="-22" frameY="-8" frameWidth="410" frameHeight="1039" />
+<SubTexture name="ink waterfall instance 0029" x="1883" y="0" width="383" height="994" frameX="-22" frameY="-8" frameWidth="410" frameHeight="1039" />
+</TextureAtlas>
